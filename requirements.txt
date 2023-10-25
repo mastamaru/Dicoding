@@ -1,0 +1,6 @@
+plotly == 5.14.1
+plotly.resampler == 0.8.3.2
+streamlit == 1.27.2
+pandas == 1.5.3
+matplotlib == 3.7.1
+numpy == 1.23.5
